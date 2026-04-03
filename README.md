@@ -1,7 +1,7 @@
 ## Simulation of Spread Spectrum Modulation Techniques
 
-# Annuncio M
-# 212224060021
+# Dharsan muthu ganesh G
+# 212223060047
 ### AIM
 To simulate the process of Direct Sequence Spread Spectrum (DSSS) modulation using Binary Phase Shift Keying (BPSK).
 ### SOFTWARE REQUIRED
